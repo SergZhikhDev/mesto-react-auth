@@ -85,12 +85,5 @@ export const api = new Api({
     "Content-Type": "application/json",
   },
 });
-// export const api = new Api({
-//   baseUrl: " http://nav39.students.nomoredomainssbs.ru",
-//   headers: {
-//     authorization: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyY2E1OGUwNTVjYTMzZDhkNDAyYTY5ZiIsImlhdCI6MTY1NzQyODI1MSwiZXhwIjoxNjU4MDMzMDUxfQ.G1PIAbySETb4ftoNDM2xWlMhZxRQC8K2MoWrv9gks3I",
-//     "Content-Type": "application/json",
-//   },
-// });
 
 export default api;
