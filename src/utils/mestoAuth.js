@@ -1,4 +1,4 @@
-export const BASE_URL =" https://mesto.nomoreparties.co/v1/cohort-39";
+export const BASE_URL = "https://auth.nomoreparties.co";
 export let error;
 
 function checkResponse(res) {
