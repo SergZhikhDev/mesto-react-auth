@@ -1,4 +1,4 @@
-export const BASE_URL =" http://nav39.students.nomoredomainssbs.ru";
+export const BASE_URL =" https://mesto.nomoreparties.co/v1/cohort-39";
 export let error;
 
 function checkResponse(res) {
